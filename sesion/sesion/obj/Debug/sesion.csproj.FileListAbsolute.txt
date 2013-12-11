@@ -1,0 +1,8 @@
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\obj\Debug\sesion.MainForm.resources
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\bin\Debug\sesion.exe
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\bin\Debug\sesion.pdb
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\obj\Debug\sesion.exe
+C:\Users\CANO\Documents\SharpDevelop Projects\sesion\sesion\obj\Debug\sesion.pdb
